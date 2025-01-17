@@ -1,0 +1,1 @@
+This is clone project of web spotify home page using HTML & CSS technology.
